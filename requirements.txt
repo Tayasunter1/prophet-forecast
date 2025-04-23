@@ -8,4 +8,4 @@ pystan==3.9.1
 scikit-learn
 matplotlib
 statsmodels
-
+seaborn
