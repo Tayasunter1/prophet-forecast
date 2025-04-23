@@ -5,3 +5,7 @@ pandas>=2.0.3
 numpy>=1.26.4
 cmdstanpy>=1.2.4
 pystan==3.9.1
+scikit-learn
+matplotlib
+statsmodels
+
